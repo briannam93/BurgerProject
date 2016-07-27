@@ -1,0 +1,66 @@
+form{
+    width:40%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:10px;
+    padding-bottom:30px;
+    text-align:center;
+    background-color:white;
+    border-style:groove;
+    border-color:black;
+}
+.burgerChoice{
+    margin-top:15%;
+}
+img{
+    max-width:10%;
+    margin:auto;
+}
+input{
+   margin-left:2.5em;
+    margin-right:2.5em;
+    
+}
+select{
+    margin-left:5em;
+    margin-right:5em;
+    margin-top:-4em;
+    
+
+}
+h1{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    margin-bottom:50px;
+    text-align:center;
+}
+body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#05505d+0,011d21+100 */
+background: rgb(5,80,93); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(5,80,93,1) 0%, rgba(1,29,33,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(5,80,93,1) 0%,rgba(1,29,33,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(5,80,93,1) 0%,rgba(1,29,33,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#05505d', endColorstr='#011d21',GradientType=0 ); /* IE6-9 */
+copy
+}
+.btn {
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 16px;
+  background: #346bd9;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff00ff;
+  text-decoration: none;
+}
+.burger{
+    border-style:groove;
+    border-color:black;
+}
